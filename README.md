@@ -1,6 +1,4 @@
-<p><samp>Hi there! I'm <b>Rohini</b>.</samp></p>
-<p><samp>I'm a <b>Buying & Merchandising</b> undergraduate student at <b>UAL</b> in <b>London</b>.</samp></p>
-<p><samp>I'm passionate about <b>Technology</b> and I aspire to be a <b>Software Engineer</b>.</samp></p>
+<p><samp> I aspire to be a <b>Software Engineer</b>.</samp></p>
 <hr>
 <p>
   <a href="https://www.linkedin.com/in/rohinisyed/">
