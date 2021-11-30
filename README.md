@@ -1,4 +1,4 @@
-<p><samp> I aspire to be a <b>Software Engineer</b>.</samp></p>
+<p><samp> Aspiring <b>Software Engineer</b>.</samp></p>
 <hr>
 <p>
   <a href="https://www.linkedin.com/in/rohinisyed/">
